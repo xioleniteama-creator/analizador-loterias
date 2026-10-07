@@ -1,27 +1,37 @@
-# Analizador de loterías · Demo
+# Analizador de loterías · Demo de datos
 
-**An interactive historical-data exploration interface by Xioleni Salazar.**
+**Diseño y desarrollo: Xioleni Salazar** · [Portafolio](https://xioleni.com/)
 
-The demo presents filters, charts, and statistical views over a small, read-only sample of past `SUPER GANA` results. The interface is built with HTML, CSS, and JavaScript; Chart.js is loaded from jsDelivr.
+[Abrir el analizador](https://xioleni.com/proyectos/analizador-loterias/)
 
-**Vista previa:** [Abrir el analizador](https://xioleni.com/proyectos/analizador-loterias/)
+## Descripción del proyecto
 
-## Run locally
+Interfaz para procesar y explorar datos históricos de lotería mediante filtros, patrones y visualizaciones interactivas. El objetivo es presentar la información de forma visual para facilitar su lectura y comparación.
 
-Serve this folder from a local web server so the browser can load the sample JSON:
+## Ficha del proyecto
 
-```powershell
-py -m http.server 8000
-```
+- **Tipo:** herramienta de análisis y visualización.
+- **Código:** HTML · CSS · JavaScript · Chart.js.
+- **Dificultad:** Media–alta.
+- **Enfoque:** exploración, filtros y lectura visual de patrones.
 
-Open `http://localhost:8000`.
+## Qué incluye
 
-## Demo scope
+- Datos de ejemplo integrados en el repositorio y paneles de análisis.
+- Filtros para explorar los resultados históricos disponibles.
+- Gráficas y comparativas interactivas creadas con Chart.js.
+- Estructura de interfaz preparada para evolucionar con un backend.
 
-The repository contains a small historical sample in [`backup/loterias_backup.json`](backup/loterias_backup.json). Live synchronization and administrator actions belong to the hosted site backend and are not part of this static demo.
+## Datos y alcance
 
-Historical frequencies and patterns describe past draws only. They do not predict future results or increase the chance of winning.
+Esta copia estática usa una muestra histórica de solo lectura en [`backup/loterias_backup.json`](backup/loterias_backup.json). No incluye sincronización en vivo ni acciones de administración; esas funciones pertenecen al backend del sitio alojado.
 
-## Credits
+Las frecuencias y patrones describen resultados pasados: no predicen sorteos futuros ni aumentan la probabilidad de ganar.
 
-Design and development: **Xioleni Salazar** · [xioleni.com](https://xioleni.com)
+## Ejecutar localmente
+
+Sirve la carpeta con `py -m http.server 8000` y abre `http://localhost:8000` para que el navegador pueda cargar el archivo JSON.
+
+## Créditos
+
+Diseño e implementación de **Xioleni Salazar**.
