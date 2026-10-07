@@ -1,0 +1,708 @@
+{
+    "demo":  true,
+    "source":  "https://supergana.com.ve/",
+    "lotteries":  {
+                      "SUPER GANA":  [
+                                         {
+                                             "date":  "2026-10-07",
+                                             "time":  "16:00",
+                                             "result":  "3997",
+                                             "signo":  "Sagitario",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-10-07",
+                                             "time":  "13:00",
+                                             "result":  "2773",
+                                             "signo":  "Geminis",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-10-06",
+                                             "time":  "22:00",
+                                             "result":  "8991",
+                                             "signo":  "Libra",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-10-06",
+                                             "time":  "16:00",
+                                             "result":  "8803",
+                                             "signo":  "Sagitario",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-10-06",
+                                             "time":  "13:00",
+                                             "result":  "5798",
+                                             "signo":  "Piscis",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-10-05",
+                                             "time":  "22:00",
+                                             "result":  "0540",
+                                             "signo":  "Leo",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-10-05",
+                                             "time":  "16:00",
+                                             "result":  "4875",
+                                             "signo":  "Escorpio",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-10-05",
+                                             "time":  "13:00",
+                                             "result":  "4771",
+                                             "signo":  "Aries",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-10-04",
+                                             "time":  "22:00",
+                                             "result":  "7089",
+                                             "signo":  "Tauro",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-10-04",
+                                             "time":  "16:00",
+                                             "result":  "7080",
+                                             "signo":  "Libra",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-10-04",
+                                             "time":  "13:00",
+                                             "result":  "8423",
+                                             "signo":  "Geminis",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-10-03",
+                                             "time":  "22:00",
+                                             "result":  "6945",
+                                             "signo":  "Tauro",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-10-03",
+                                             "time":  "16:00",
+                                             "result":  "4470",
+                                             "signo":  "Virgo",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-10-03",
+                                             "time":  "13:00",
+                                             "result":  "2650",
+                                             "signo":  "Capricornio",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-10-02",
+                                             "time":  "22:00",
+                                             "result":  "7210",
+                                             "signo":  "Geminis",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-10-02",
+                                             "time":  "16:00",
+                                             "result":  "1446",
+                                             "signo":  "Virgo",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-10-02",
+                                             "time":  "13:00",
+                                             "result":  "8278",
+                                             "signo":  "Libra",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-10-01",
+                                             "time":  "22:00",
+                                             "result":  "2502",
+                                             "signo":  "Cancer",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-10-01",
+                                             "time":  "16:00",
+                                             "result":  "7407",
+                                             "signo":  "Tauro",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-10-01",
+                                             "time":  "13:00",
+                                             "result":  "6050",
+                                             "signo":  "Aries",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-30",
+                                             "time":  "22:00",
+                                             "result":  "2765",
+                                             "signo":  "Tauro",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-30",
+                                             "time":  "16:00",
+                                             "result":  "5011",
+                                             "signo":  "Piscis",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-30",
+                                             "time":  "13:00",
+                                             "result":  "0552",
+                                             "signo":  "Piscis",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-29",
+                                             "time":  "22:00",
+                                             "result":  "0721",
+                                             "signo":  "Piscis",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-29",
+                                             "time":  "16:00",
+                                             "result":  "1273",
+                                             "signo":  "Piscis",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-29",
+                                             "time":  "13:00",
+                                             "result":  "1143",
+                                             "signo":  "Escorpio",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-28",
+                                             "time":  "22:00",
+                                             "result":  "4309",
+                                             "signo":  "Piscis",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-28",
+                                             "time":  "16:00",
+                                             "result":  "0203",
+                                             "signo":  "Capricornio",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-28",
+                                             "time":  "13:00",
+                                             "result":  "2199",
+                                             "signo":  "Geminis",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-27",
+                                             "time":  "22:00",
+                                             "result":  "4827",
+                                             "signo":  "Libra",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-27",
+                                             "time":  "16:00",
+                                             "result":  "6363",
+                                             "signo":  "Escorpio",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-27",
+                                             "time":  "13:00",
+                                             "result":  "1038",
+                                             "signo":  "Aries",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-26",
+                                             "time":  "22:00",
+                                             "result":  "9799",
+                                             "signo":  "Virgo",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-26",
+                                             "time":  "16:00",
+                                             "result":  "7185",
+                                             "signo":  "Geminis",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-26",
+                                             "time":  "13:00",
+                                             "result":  "5156",
+                                             "signo":  "Leo",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-25",
+                                             "time":  "22:00",
+                                             "result":  "4380",
+                                             "signo":  "Libra",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-25",
+                                             "time":  "16:00",
+                                             "result":  "0939",
+                                             "signo":  "Libra",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-25",
+                                             "time":  "13:00",
+                                             "result":  "3780",
+                                             "signo":  "Piscis",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-24",
+                                             "time":  "22:00",
+                                             "result":  "7183",
+                                             "signo":  "Virgo",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-24",
+                                             "time":  "16:00",
+                                             "result":  "4777",
+                                             "signo":  "Libra",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-24",
+                                             "time":  "13:00",
+                                             "result":  "3829",
+                                             "signo":  "Geminis",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-23",
+                                             "time":  "22:00",
+                                             "result":  "2125",
+                                             "signo":  "Leo",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-23",
+                                             "time":  "16:00",
+                                             "result":  "1027",
+                                             "signo":  "Aries",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-23",
+                                             "time":  "13:00",
+                                             "result":  "6476",
+                                             "signo":  "Aries",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-22",
+                                             "time":  "22:00",
+                                             "result":  "2934",
+                                             "signo":  "Virgo",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-22",
+                                             "time":  "16:00",
+                                             "result":  "8304",
+                                             "signo":  "Capricornio",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-22",
+                                             "time":  "13:00",
+                                             "result":  "9063",
+                                             "signo":  "Piscis",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-21",
+                                             "time":  "22:00",
+                                             "result":  "8254",
+                                             "signo":  "Capricornio",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-21",
+                                             "time":  "16:00",
+                                             "result":  "3227",
+                                             "signo":  "Acuario",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-21",
+                                             "time":  "13:00",
+                                             "result":  "7145",
+                                             "signo":  "Sagitario",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-20",
+                                             "time":  "22:00",
+                                             "result":  "0816",
+                                             "signo":  "Tauro",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-20",
+                                             "time":  "16:00",
+                                             "result":  "9605",
+                                             "signo":  "Acuario",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-20",
+                                             "time":  "13:00",
+                                             "result":  "5750",
+                                             "signo":  "Virgo",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-19",
+                                             "time":  "22:00",
+                                             "result":  "7149",
+                                             "signo":  "Aries",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-19",
+                                             "time":  "16:00",
+                                             "result":  "8163",
+                                             "signo":  "Libra",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-19",
+                                             "time":  "13:00",
+                                             "result":  "7692",
+                                             "signo":  "Capricornio",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-18",
+                                             "time":  "22:00",
+                                             "result":  "3825",
+                                             "signo":  "Acuario",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-18",
+                                             "time":  "16:00",
+                                             "result":  "1916",
+                                             "signo":  "Geminis",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-18",
+                                             "time":  "13:00",
+                                             "result":  "6098",
+                                             "signo":  "Piscis",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-17",
+                                             "time":  "22:00",
+                                             "result":  "0333",
+                                             "signo":  "Cancer",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-17",
+                                             "time":  "16:00",
+                                             "result":  "9068",
+                                             "signo":  "Geminis",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-17",
+                                             "time":  "13:00",
+                                             "result":  "7888",
+                                             "signo":  "Aries",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-16",
+                                             "time":  "22:00",
+                                             "result":  "7619",
+                                             "signo":  "Capricornio",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-16",
+                                             "time":  "16:00",
+                                             "result":  "0766",
+                                             "signo":  "Tauro",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-16",
+                                             "time":  "13:00",
+                                             "result":  "9601",
+                                             "signo":  "Piscis",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-15",
+                                             "time":  "22:00",
+                                             "result":  "1406",
+                                             "signo":  "Aries",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-15",
+                                             "time":  "16:00",
+                                             "result":  "3938",
+                                             "signo":  "Acuario",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-15",
+                                             "time":  "13:00",
+                                             "result":  "2612",
+                                             "signo":  "Leo",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-14",
+                                             "time":  "22:00",
+                                             "result":  "7885",
+                                             "signo":  "Acuario",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-14",
+                                             "time":  "16:00",
+                                             "result":  "3982",
+                                             "signo":  "Tauro",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-14",
+                                             "time":  "13:00",
+                                             "result":  "8942",
+                                             "signo":  "Tauro",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-13",
+                                             "time":  "22:00",
+                                             "result":  "2223",
+                                             "signo":  "Escorpio",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-13",
+                                             "time":  "16:00",
+                                             "result":  "0557",
+                                             "signo":  "Libra",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-13",
+                                             "time":  "13:00",
+                                             "result":  "1303",
+                                             "signo":  "Sagitario",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-12",
+                                             "time":  "22:00",
+                                             "result":  "5086",
+                                             "signo":  "Piscis",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-12",
+                                             "time":  "16:00",
+                                             "result":  "0095",
+                                             "signo":  "Cancer",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-12",
+                                             "time":  "13:00",
+                                             "result":  "6185",
+                                             "signo":  "Acuario",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-11",
+                                             "time":  "22:00",
+                                             "result":  "9313",
+                                             "signo":  "Acuario",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-11",
+                                             "time":  "16:00",
+                                             "result":  "3137",
+                                             "signo":  "Piscis",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-11",
+                                             "time":  "13:00",
+                                             "result":  "9380",
+                                             "signo":  "Acuario",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-10",
+                                             "time":  "22:00",
+                                             "result":  "5622",
+                                             "signo":  "Virgo",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-10",
+                                             "time":  "16:00",
+                                             "result":  "2283",
+                                             "signo":  "Aries",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-10",
+                                             "time":  "13:00",
+                                             "result":  "5954",
+                                             "signo":  "Escorpio",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-09",
+                                             "time":  "22:00",
+                                             "result":  "0571",
+                                             "signo":  "Libra",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-09",
+                                             "time":  "16:00",
+                                             "result":  "9236",
+                                             "signo":  "Escorpio",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-09",
+                                             "time":  "13:00",
+                                             "result":  "9902",
+                                             "signo":  "Escorpio",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-08",
+                                             "time":  "22:00",
+                                             "result":  "5971",
+                                             "signo":  "Tauro",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-08",
+                                             "time":  "16:00",
+                                             "result":  "0510",
+                                             "signo":  "Aries",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-08",
+                                             "time":  "13:00",
+                                             "result":  "1209",
+                                             "signo":  "Sagitario",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-07",
+                                             "time":  "22:00",
+                                             "result":  "8549",
+                                             "signo":  "Escorpio",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-07",
+                                             "time":  "16:00",
+                                             "result":  "4836",
+                                             "signo":  "Aries",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-07",
+                                             "time":  "13:00",
+                                             "result":  "8150",
+                                             "signo":  "Libra",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-06",
+                                             "time":  "22:00",
+                                             "result":  "7385",
+                                             "signo":  "Aries",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-06",
+                                             "time":  "16:00",
+                                             "result":  "6917",
+                                             "signo":  "Acuario",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-06",
+                                             "time":  "13:00",
+                                             "result":  "9694",
+                                             "signo":  "Libra",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-05",
+                                             "time":  "22:00",
+                                             "result":  "1203",
+                                             "signo":  "Escorpio",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-05",
+                                             "time":  "16:00",
+                                             "result":  "1986",
+                                             "signo":  "Cancer",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-05",
+                                             "time":  "13:00",
+                                             "result":  "7894",
+                                             "signo":  "Leo",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-04",
+                                             "time":  "22:00",
+                                             "result":  "1899",
+                                             "signo":  "Virgo",
+                                             "source":  "supergana.com.ve"
+                                         },
+                                         {
+                                             "date":  "2026-09-04",
+                                             "time":  "16:00",
+                                             "result":  "5310",
+                                             "signo":  "Escorpio",
+                                             "source":  "supergana.com.ve"
+                                         }
+                                     ]
+                  }
+}
