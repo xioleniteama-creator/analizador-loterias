@@ -4,6 +4,8 @@
 
 [Abrir el analizador](https://xioleni.com/proyectos/analizador-loterias/)
 
+![Captura del analizador con gr&aacute;ficas de resultados hist&oacute;ricos.](docs/screenshots/analizador-loterias.png)
+
 ## Descripción del proyecto
 
 Interfaz para procesar y explorar datos históricos de lotería mediante filtros, patrones y visualizaciones interactivas. El objetivo es presentar la información de forma visual para facilitar su lectura y comparación.
@@ -40,7 +42,6 @@ Diseño e implementación de **Xioleni Salazar**.
 
 Interfaz de consulta y visualizaci&oacute;n de datos hist&oacute;ricos con filtros y gr&aacute;ficos.
 
-![Captura del analizador con gr&aacute;ficas de resultados hist&oacute;ricos.](docs/screenshots/analizador-loterias.png)
 
 **Demo:** consulta el enlace indicado arriba. **C&oacute;digo:** abre este repositorio. Las capturas muestran el proyecto local tal como est&aacute; en este c&oacute;digo.
 
