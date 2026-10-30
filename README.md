@@ -35,3 +35,21 @@ Sirve la carpeta con `py -m http.server 8000` y abre `http://localhost:8000` par
 ## Créditos
 
 Diseño e implementación de **Xioleni Salazar**.
+
+## Presentaci&oacute;n r&aacute;pida
+
+Interfaz de consulta y visualizaci&oacute;n de datos hist&oacute;ricos con filtros y gr&aacute;ficos.
+
+![Captura del analizador con gr&aacute;ficas de resultados hist&oacute;ricos.](docs/screenshots/analizador-loterias.png)
+
+**Demo:** consulta el enlace indicado arriba. **C&oacute;digo:** abre este repositorio. Las capturas muestran el proyecto local tal como est&aacute; en este c&oacute;digo.
+
+## Decisiones y validaci&oacute;n manual
+
+Prueba filtros y selecci&oacute;n de series; revisa que las gr&aacute;ficas correspondan al conjunto hist&oacute;rico seleccionado. El an&aacute;lisis no predice sorteos ni recomienda apuestas.
+
+Este repositorio no incluye una suite de pruebas automatizadas. La lista anterior sirve como comprobaci&oacute;n manual de la demo; no se presenta como un resultado de pruebas autom&aacute;ticas.
+
+## Aporte y alcance
+
+Dise&ntilde;o e implementaci&oacute;n de portafolio por Xioleni Salazar. El proyecto demuestra decisiones de interfaz y comportamiento frontend en una demo; no representa una tienda en producci&oacute;n ni trabajo para un cliente.
